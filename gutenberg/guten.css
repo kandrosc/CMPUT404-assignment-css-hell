@@ -1,0 +1,35 @@
+/* https://fontsgeek.com/fonts/apple-chancery-regular?ref=readme */
+@font-face {
+    font-family: "Apple Chancery";
+    src: url("apple_chancery.ttf");
+}
+
+
+body {
+    background-image: url('https://i.pinimg.com/originals/0b/b6/eb/0bb6ebfcea5b54bcd9f89694594abf19.png');
+    background-size:cover;
+    height: 100vh;
+    padding:0;
+    margin:0;
+    font-family: "Apple Chancery";
+    text-align:center;
+
+}
+
+p {
+    padding-right: 150px;
+    padding-left:150px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    padding-top:45px;
+}
+
+img {
+    filter:sepia(100%);
+    opacity: 62%;
+}
+
+a {
+    color:brown;
+}
