@@ -5,6 +5,11 @@
 }
 
 
+pre {
+    font-family: "Apple Chancery";
+    text-align:center;
+}
+
 body {
     background-image: url('https://i.pinimg.com/originals/0b/b6/eb/0bb6ebfcea5b54bcd9f89694594abf19.png');
     background-size:cover;
@@ -25,9 +30,17 @@ h1, h2, h3, h4, h5, h6 {
     padding-top:45px;
 }
 
+div {
+    width:auto !important;
+}
+
+/* !important is used to override witdh styles and force images to be centered*/
 img {
     filter:sepia(100%);
     opacity: 62%;
+    margin:auto;
+    width:auto ! important;
+    display:block;
 }
 
 a {
