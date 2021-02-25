@@ -21,4 +21,11 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Adding a new font in guten.css came from
+https://fontsgeek.com/fonts/apple-chancery-regular?ref=readme
 
+Overriding inline styles in guten.css came from
+https://stackoverflow.com/questions/16813220/how-can-i-override-inline-styles-with-external-css
+
+Adding a gradient to text in good/bad.css came from
+https://css-tricks.com/snippets/css/gradient-text/

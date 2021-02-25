@@ -1,0 +1,64 @@
+
+body {
+    font-family:'Courier New', Courier, monospace;
+    color:white;
+
+}
+
+#topbar {
+    width:0;
+}
+
+#kyleimage {
+    height:200px;
+    width:150px;
+    float:left;
+
+}
+
+#wchriimage {
+
+    height:100px;
+    width:100px;
+    float:right;
+
+}
+
+#uofaimage {
+
+    height:140px;
+    width:140px;
+    float:left;
+
+}
+
+
+span p {
+    display:block;
+    margin-left:66px;
+    background:#fd67cb
+    
+}
+
+
+.sidebar {
+    float: right;
+    background:#fcce00;
+    text-align: center;
+
+}
+
+.title {
+    background:#0136fe;
+}
+h1 {
+    font-size:72px;
+    text-align:center;
+    background:-webkit-linear-gradient(top left, orange, blue,red,indigo);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h2:not(.sidebar-title) {
+    margin-left:23px;
+}
